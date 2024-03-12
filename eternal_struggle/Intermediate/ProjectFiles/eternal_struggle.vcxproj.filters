@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\eternal_struggle.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\eternal_struggle.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\eternal_struggleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\eternal_struggle">
+      <UniqueIdentifier>{52BF17F7-97F5-3A21-ADA8-AF8B7A7487E4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\eternal_struggle\eternal_struggle.Build.cs">
+      <Filter>Source\eternal_struggle</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\eternal_struggle\eternal_struggle.cpp">
+      <Filter>Source\eternal_struggle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\eternal_struggle\eternal_struggle.h">
+      <Filter>Source\eternal_struggle</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\eternal_struggle\HealthBar.cpp">
+      <Filter>Source\eternal_struggle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\eternal_struggle\HealthBar.h">
+      <Filter>Source\eternal_struggle</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\eternal_struggle\HealthBarTest.cpp">
+      <Filter>Source\eternal_struggle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\eternal_struggle\HealthBarTest.h">
+      <Filter>Source\eternal_struggle</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\eternal_struggle\Testclass.cpp">
+      <Filter>Source\eternal_struggle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\eternal_struggle\Testclass.h">
+      <Filter>Source\eternal_struggle</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

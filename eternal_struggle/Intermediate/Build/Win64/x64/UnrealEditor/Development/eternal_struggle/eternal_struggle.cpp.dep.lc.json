@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\12345\\onedrive\\stalinis kompiuteris\\eternal struggle\\game folder\\eternal_struggle\\source\\eternal_struggle\\eternal_struggle.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\12345\\onedrive\\stalinis kompiuteris\\eternal struggle\\game folder\\eternal_struggle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\12345\\onedrive\\stalinis kompiuteris\\eternal struggle\\game folder\\eternal_struggle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eternal_struggle\\definitions.eternal_struggle.h",
+            "c:\\users\\12345\\onedrive\\stalinis kompiuteris\\eternal struggle\\game folder\\eternal_struggle\\source\\eternal_struggle\\eternal_struggle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

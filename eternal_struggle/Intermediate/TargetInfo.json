@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "eternal_struggle",
+			"Path": "..\\Source\\eternal_struggle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "eternal_struggleEditor",
+			"Path": "..\\Source\\eternal_struggleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
